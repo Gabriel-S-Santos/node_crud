@@ -1,0 +1,7 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel-S-Santos <gabrielsilvadossantos@protonmail.com>",
+  "license": "MIT"
+}
